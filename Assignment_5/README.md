@@ -93,4 +93,4 @@ This is the expected for vertex shading and perspective camera
 Deliverables
 -------------
 
-Submit your `main.cpp` and the `attribues.h` the final rasterized images and videos.
+Submit your `main.cpp` and the `attribues.h`.
